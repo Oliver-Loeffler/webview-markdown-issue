@@ -10,8 +10,8 @@ Chromium based web browsers render local and remote based MarkDown (MD) files as
 
 ## Observed behavior
 
-* Remote markdown in WebView: [remote markdown rendering](doc/WebView_Remote_Markdown.png)
-* Local markdown in WebView: [local markdown rendering](doc/WebView_Local_MarkdownFile.png)
-* Local text file in WebView: [local markdown rendering](doc/WebView_Local_TextFile.png)
-* Local html file in WebView: [local markdown rendering](doc/WebView_Local_HtmlFile.png)
+* Remote markdown in WebView: ![remote markdown rendering](doc/WebView_Remote_Markdown.png)
+* Local markdown in WebView: ![local markdown rendering](doc/WebView_Local_MarkdownFile.png)
+* Local text file in WebView: ![local markdown rendering](doc/WebView_Local_TextFile.png)
+* Local html file in WebView: ![local markdown rendering](doc/WebView_Local_HtmlFile.png)
 
