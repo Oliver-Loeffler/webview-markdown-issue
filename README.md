@@ -15,3 +15,4 @@ Chromium based web browsers render local and remote based MarkDown (MD) files as
 * Local text file in WebView: ![local markdown rendering](doc/WebView_Local_TextFile.png)
 * Local html file in WebView: ![local markdown rendering](doc/WebView_Local_HtmlFile.png)
 
+[![Alternate Text](doc/WebView_Remote_Markdown.png)](doc/JavaFxWebViewIssue.mp4 "Link Title")
