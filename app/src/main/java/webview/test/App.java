@@ -46,7 +46,7 @@ public class App extends Application {
 		engine.load("about:blank");
 		engine.load(url);
 		
-		resourceName.setText("Resource to be loaded: " + url);
+		resourceName.setText(url);
 	}
 
 	@Override
