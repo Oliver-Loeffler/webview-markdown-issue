@@ -1,3 +1,18 @@
+/*
+ * Required modules:
+ * 
+ * 'javafx.controls', 'javafx.web'
+ * 
+ * JavaFX version used:
+ * 11.0.2
+ * 16-ea+6
+ * 
+ * Java version used:
+ * 15.0.1
+ * 
+ * 
+ */
+
 package webview.test;
 
 import java.io.IOException;
@@ -110,3 +125,53 @@ public class App extends Application {
     }
     
 }
+
+/*
+ * testfiles/HelloWorld.html
+ * 
+ * <html>
+ * <body>
+ * <h1>Hello HTML!</h1>
+ * <p>
+ * This HTML content is loaded from a local file system resource.
+ * </p>
+ * </body>
+ * </html>
+ * 
+ */
+
+/*
+ * testfiles/HelloWorld.MD
+ * 
+ * # Markdown
+ * 
+ * Markdown can be quite useful.
+ * 
+ * ## Chapter 1
+ * 
+ * Some text may follow here.
+ * 
+ * ## Chapter 2
+ * 
+ * This markdown is loaded from local file system.
+ *
+ * 
+ */
+
+/*
+ * testfiles/HelloWorld.TXT
+ * 
+ * # Markdown
+ * 
+ * Markdown can be quite useful.
+ * 
+ * ## Chapter 1
+ * 
+ * Some text may follow here.
+ * 
+ * ## Chapter 2
+ * 
+ * This markdown is loaded from local file system.
+ *
+ * 
+ */
